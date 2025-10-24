@@ -161,4 +161,5 @@
 
 .content p {
   margin-bottom: clamp(12px, 1.5vw, 16px);
+text-align: justify;
 }
