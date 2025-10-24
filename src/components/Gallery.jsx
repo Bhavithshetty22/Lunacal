@@ -97,7 +97,7 @@ export default function Gallery() {
                 className="gallery-item"
                 whileHover={{
                   scale: 1.05,
-                  rotate: 3,
+                  rotate: -2,
                   transition: { duration: 0.1 },
                 }}
               >
